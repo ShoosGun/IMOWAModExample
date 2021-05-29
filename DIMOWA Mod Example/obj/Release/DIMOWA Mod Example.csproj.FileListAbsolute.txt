@@ -1,0 +1,10 @@
+C:\Users\ivanr\Desktop\Projetos com código\Modding\Mods with 'LOADER'\DIMOWA Mod Example\DIMOWA Mod Example\bin\Release\DIMOWA Mod Example.dll
+C:\Users\ivanr\Desktop\Projetos com código\Modding\Mods with 'LOADER'\DIMOWA Mod Example\DIMOWA Mod Example\bin\Release\DIMOWA Mod Example.pdb
+C:\Users\ivanr\Desktop\Projetos com código\Modding\Mods with 'LOADER'\DIMOWA Mod Example\DIMOWA Mod Example\bin\Release\CAMOWA.dll
+C:\Users\ivanr\Desktop\Projetos com código\Modding\Mods with 'LOADER'\DIMOWA Mod Example\DIMOWA Mod Example\bin\Release\UnityEngine.dll
+C:\Users\ivanr\Desktop\Projetos com código\Modding\Mods with 'LOADER'\DIMOWA Mod Example\DIMOWA Mod Example\obj\Release\DIMOWA Mod Example.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\Desktop\Projetos com código\Modding\Mods with 'LOADER'\DIMOWA Mod Example\DIMOWA Mod Example\obj\Release\DIMOWA Mod Example.csproj.CopyComplete
+C:\Users\ivanr\Desktop\Projetos com código\Modding\Mods with 'LOADER'\DIMOWA Mod Example\DIMOWA Mod Example\obj\Release\DIMOWA Mod Example.dll
+C:\Users\ivanr\Desktop\Projetos com código\Modding\Mods with 'LOADER'\DIMOWA Mod Example\DIMOWA Mod Example\obj\Release\DIMOWA Mod Example.pdb
+C:\Users\ivanr\Desktop\Projetos com código\Modding\Mods with 'LOADER'\DIMOWA Mod Example\DIMOWA Mod Example\bin\Release\CAMOWA.pdb
+C:\Users\ivanr\Desktop\Projetos com código\Modding\Mods with 'LOADER'\DIMOWA Mod Example\DIMOWA Mod Example\obj\Release\DIMOWA Mod Example.csprojAssemblyReference.cache
